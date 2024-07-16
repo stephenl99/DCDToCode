@@ -2,7 +2,7 @@ public class User {
     private String userID;
     private String email;
     private String password;
-    private Subscriptions subsciptionType;
+    private Subscriptions subscriptionType;
     public void createPlaylist(String name) {
 
     }
